@@ -1,0 +1,150 @@
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\CREATE_WORD.dll.config
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\CREATE_WORD.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\CREATE_WORD.pdb
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\csc.exe
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\csc.exe.config
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\csc.rsp
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\csi.exe
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\csi.rsp
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\System.AppContext.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\System.Collections.Immutable.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\System.IO.FileSystem.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\System.Reflection.Metadata.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\vbc.exe
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\vbc.exe.config
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\vbc.rsp
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\VBCSCompiler.exe
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\roslyn\VBCSCompiler.exe.config
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\Antlr3.Runtime.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\Microsoft.Web.Infrastructure.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\Newtonsoft.Json.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Net.Http.Formatting.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.Helpers.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.Http.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.Http.WebHost.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.Mvc.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.Optimization.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.Razor.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.WebPages.Deployment.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.WebPages.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.WebPages.Razor.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\WebGrease.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\Newtonsoft.Json.xml
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Net.Http.Formatting.xml
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.Helpers.xml
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.Http.xml
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.Http.WebHost.xml
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.Mvc.xml
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.Optimization.xml
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.Razor.xml
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.WebPages.xml
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.WebPages.Deployment.xml
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\System.Web.WebPages.Razor.xml
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\Antlr3.Runtime.pdb
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\.NET API\CREATE_WORD\CREATE_WORD\obj\Debug\CREATE_WORD.csproj.AssemblyReference.cache
+D:\.NET API\CREATE_WORD\CREATE_WORD\obj\Debug\CREATE_WORD.csproj.CoreCompileInputs.cache
+D:\.NET API\CREATE_WORD\CREATE_WORD\obj\Debug\CREATE_WORD.csproj.CopyComplete
+D:\.NET API\CREATE_WORD\CREATE_WORD\obj\Debug\CREATE_WORD.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\obj\Debug\CREATE_WORD.pdb
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\ICSharpCode.SharpZipLib.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\NPOI.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\NPOI.OOXML.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\NPOI.OpenXml4Net.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\NPOI.OpenXmlFormats.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\ICSharpCode.SharpZipLib.xml
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\Spire.Doc.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\Spire.Pdf.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\Microsoft.mshtml.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\Spire.Doc.xml
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\Spire.Pdf.xml
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\DocumentFormat.OpenXml.dll
+D:\.NET API\CREATE_WORD\CREATE_WORD\bin\DocumentFormat.OpenXml.xml
+D:\demo\CREATE_WORD\CREATE_WORD\bin\CREATE_WORD.dll.config
+D:\demo\CREATE_WORD\CREATE_WORD\bin\CREATE_WORD.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\CREATE_WORD.pdb
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\csc.exe
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\csc.exe.config
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\csc.rsp
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\csi.exe
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\csi.rsp
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\System.AppContext.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\System.Collections.Immutable.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\System.IO.FileSystem.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\System.Reflection.Metadata.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\vbc.exe
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\vbc.exe.config
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\vbc.rsp
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\VBCSCompiler.exe
+D:\demo\CREATE_WORD\CREATE_WORD\bin\roslyn\VBCSCompiler.exe.config
+D:\demo\CREATE_WORD\CREATE_WORD\bin\Antlr3.Runtime.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\DocumentFormat.OpenXml.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\ICSharpCode.SharpZipLib.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\Microsoft.Web.Infrastructure.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\Newtonsoft.Json.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\NPOI.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\NPOI.OOXML.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\NPOI.OpenXml4Net.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\NPOI.OpenXmlFormats.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\Spire.Doc.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\Spire.Pdf.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Net.Http.Formatting.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.Helpers.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.Http.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.Http.WebHost.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.Mvc.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.Optimization.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.Razor.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.WebPages.Deployment.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.WebPages.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.WebPages.Razor.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\WebGrease.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\Microsoft.mshtml.dll
+D:\demo\CREATE_WORD\CREATE_WORD\bin\DocumentFormat.OpenXml.xml
+D:\demo\CREATE_WORD\CREATE_WORD\bin\ICSharpCode.SharpZipLib.xml
+D:\demo\CREATE_WORD\CREATE_WORD\bin\Spire.Doc.xml
+D:\demo\CREATE_WORD\CREATE_WORD\bin\Spire.Pdf.xml
+D:\demo\CREATE_WORD\CREATE_WORD\bin\Newtonsoft.Json.xml
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Net.Http.Formatting.xml
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.Helpers.xml
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.Http.xml
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.Http.WebHost.xml
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.Mvc.xml
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.Optimization.xml
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.Razor.xml
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.WebPages.xml
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.WebPages.Deployment.xml
+D:\demo\CREATE_WORD\CREATE_WORD\bin\System.Web.WebPages.Razor.xml
+D:\demo\CREATE_WORD\CREATE_WORD\bin\Antlr3.Runtime.pdb
+D:\demo\CREATE_WORD\CREATE_WORD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\demo\CREATE_WORD\CREATE_WORD\obj\Debug\CREATE_WORD.csproj.AssemblyReference.cache
+D:\demo\CREATE_WORD\CREATE_WORD\obj\Debug\CREATE_WORD.csproj.CoreCompileInputs.cache
+D:\demo\CREATE_WORD\CREATE_WORD\obj\Debug\CREATE_WORD.csproj.CopyComplete
+D:\demo\CREATE_WORD\CREATE_WORD\obj\Debug\CREATE_WORD.dll
+D:\demo\CREATE_WORD\CREATE_WORD\obj\Debug\CREATE_WORD.pdb
